@@ -1,0 +1,23 @@
+name: Ok Rocket
+favicon: null
+layout_spectrum: 0.05653726099990308
+typography_spectrum: 0.10678023053333163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8068687326740474
+  lightness: 0.5092218576464802
+  saturation: 0.21636963682249188
+  rhythmicContrast: 0.09746160265058279
+purpose: []
