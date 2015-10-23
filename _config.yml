@@ -2,6 +2,7 @@ name: Ok Rocket
 favicon: null
 layout_spectrum: 0.05653726099990308
 typography_spectrum: 0.95792
+title: Ok Rocket
 cta:
   domain: null
   bucket: null
